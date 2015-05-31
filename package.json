@@ -1,0 +1,25 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "coding",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoubin/coding.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoubin/coding/issues"
+  },
+  "homepage": "https://github.com/zoubin/coding#readme"
+}
